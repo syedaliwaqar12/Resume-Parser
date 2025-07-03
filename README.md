@@ -2,11 +2,11 @@
 
 A beautiful, production-ready full-stack application that extracts structured information from PDF resumes using AI and natural language processing.
 
-![Resume Parser Demo](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Resume+Parser+Demo)
+
 
 ## 🚀 Live Demo
 
-- **Frontend**: [https://resume-parser-demo.netlify.app](https://resume-parser-demo.netlify.app)
+- **Frontend**: [https://resume-parser-demo.netlify.app](https://resume-parser11.netlify.app)
 - **Backend API**: [https://resume-parser-api.herokuapp.com](https://resume-parser-api.herokuapp.com)
 
 ## ✨ Features
